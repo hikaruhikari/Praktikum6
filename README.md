@@ -54,6 +54,11 @@ Halo, Nama saya Faiq Zainal ridho dan saya akan menjelaskan terkait tugas prakti
 
 10. ini hasil program yang dibuat
 
+![A](https://github.com/user-attachments/assets/c6d7dae7-028a-40e0-923e-0f32f1f10013)
+
+![B](https://github.com/user-attachments/assets/031e296c-da1b-4fc3-b141-996e80790196)
+
+![C](https://github.com/user-attachments/assets/0dffbb63-5e76-44b3-ac05-1d8f654a5c51)
 
 11. ini flowchart yang dibuat
 
